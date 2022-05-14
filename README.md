@@ -11,7 +11,7 @@ Repositório criado para apresentar as bibliotecas para visualização de dados 
 E buscando entender qua tipo de gráfico é mais adequada para cada situação.
 
 
-### Criando seu ambiente virtual e ativando
+## Criando seu ambiente virtual e ativando
 
 Para criação do seu ambiente virtual, use o seguinte comando no prompt, na pasta do projeto:
 
