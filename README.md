@@ -96,11 +96,6 @@ Existem algumas variações dependendo dos dados. Por exemplo:
 #### Visualizações mais comuns: Gráficos de colunas empilhadas, área e de pizza
 ----
 
-
-
-## <center> :construction: Em Construção :construction: 
-
-
 <details>
 <summary> Links Úteis </summary>
 
